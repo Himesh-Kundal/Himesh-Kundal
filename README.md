@@ -3,6 +3,9 @@
   <li>Visit My<a href="https://himeshkundal.tech" target="_blank"> Website </a></li>
   <li>💬 Ask me about <strong>Game Development, Software Development, Open Source</strong></li>
 </ul>
+<div>
+  <img align="right" src="https://komarev.com/ghpvc/?username=Himesh-Kundal&base=50&color=f34b7e&style=flat"   alt="p-c"/>
+</div>
 <h2> Languages and Tools</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
