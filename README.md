@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Himesh</h1>
 <ul>
-  <li>Visit My<a href="https:://himeshkundal.tech" target="_blank"> Website </a></li>
+  <li>Visit My<a href="https://himeshkundal.tech" target="_blank"> Website </a></li>
   <li>💬 Ask me about <strong>Game Development, Software Development, Open Source</strong></li>
 </ul>
 <h2> Languages and Tools</h2>
