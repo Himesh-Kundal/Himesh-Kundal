@@ -45,5 +45,13 @@
   <img src="https://streak-stats.demolab.com?user=Himesh-Kundal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himesh-Kundal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<br>
+<div>
+  <b>Eth</b>:  0xA01efA9329eD72473a07CF4Dd9f90039D74d2Fca
+  <br>
+  <b>Btc</b>:  bc1qwjj3g54htw730ws5ynuavuhlr6c2wc52qdl4kx
+  <br>
+  <b>Sol</b>:  D18AR9DdyNRUTzrfommQgnkZY9DpvJLXzxyMxmiu2vHA
+</div>
 
 <br clear="both">
